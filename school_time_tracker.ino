@@ -3,8 +3,8 @@
 #include "time.h"
 
 // — Wi‑Fi & NTP settings —
-const char* ssid      = "Flgurl_2.4G";
-const char* password  = "TimpforW1";
+const char* ssid      = "";
+const char* password  = "";
 const char* ntpServer = "pool.ntp.org";
 const long  gmtOffset = -5 * 3600;
 const int   dstOffset = 3600;
