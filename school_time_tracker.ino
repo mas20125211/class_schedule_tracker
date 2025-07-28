@@ -19,8 +19,8 @@ unsigned long lastActivity        = 0;
 bool screenOn                     = true;
 
 // — Wi‑Fi & NTP settings —
-const char* ssid      = "Massfeller-IOT";
-const char* password  = "Timpforw1";
+const char* ssid      = "";
+const char* password  = "";
 const char* ntpServer = "pool.ntp.org";
 const long  gmtOffset = -5 * 3600;
 const int   dstOffset = 3600;
